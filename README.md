@@ -3,6 +3,8 @@
 
 ## Setup
 
+[![Join the chat at https://gitter.im/JSBros/react-tinyletter](https://badges.gitter.im/JSBros/react-tinyletter.svg)](https://gitter.im/JSBros/react-tinyletter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ```
 $ npm install --save react-tinyletter
 ```
